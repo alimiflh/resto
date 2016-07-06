@@ -1,0 +1,171 @@
+.ul1 {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+ul{list-style-type: none;}
+	
+.ul1 li {
+	display: inline-block;
+	float: right ;
+	width : 90px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+.img {
+	height: 30px;
+	line-height: 30px;
+}
+.bigpic{
+width: 100%;	
+
+}
+
+.centerpic{
+
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 15%;
+    height: 10%;
+}
+.pictext{
+	   display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+.pic1{
+	    padding-left:5%;
+	    display: inline;
+}
+.div1{
+	padding-left:5%;
+display: inline;
+}
+.clean-box{
+	clear: both;
+}
+#THE-G{
+	padding-left:5%;}
+	.pic2{
+		 display: block;
+    width: 366px;
+    float: left;
+display: inline;
+	}
+	.pic3{
+		 display: block;
+    width: 366px;
+    float: left;
+			
+display: inline;}
+.pic4{
+	   
+float: left;
+padding-left:5%;
+}
+.all{
+
+	 width: 100%;
+       margin-top: 40px;
+        padding: 12% 4%;
+    background: #3b3b3b;
+}
+
+footer section{
+    display: block;
+    width: 230px;
+    margin-right: 60px;
+    float: left;
+}
+
+footer section:last-child{
+    margin-right: 0;
+}
+
+.adress{
+    color: #fff;
+    font-family: "aleo-regular", arial;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.adress .location{
+    color: #ebebeb;
+    font-family: "aleo-light", arial;
+    font-weight: lighter;
+}
+
+.adress .phone{
+    font-family: "aleo-bold", arial;
+    font-weight: bold;
+}
+
+.footer_nav ul{
+    list-style: none;
+}
+
+.footer_nav ul li{
+    display: block;
+    margin-bottom: 18px;
+}
+
+.footer_nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: "aleo-regular", arial;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #3b3b3b;
+}
+
+.footer_nav ul li a:hover{
+    border-bottom: 2px solid #FFF;
+}
+
+.copyrights .footer_logo{
+    margin-bottom: 30px;
+}
+
+.copyrights p{
+    color: #ebebeb;
+    font-family: "aleo-light", arial;
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 32px;
+    letter-spacing: 1px;
+}
+
+.copyrights p a{
+    font-family: "aleo-bold", arial;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
+
+
+@media screen and (max-width:900px) {
+body {
+ color: green;
+}
+@media screen and (max-width:900px) {
+.bigpic {
+width: 100%;
+
+
+
+
+
+
+
+
+
